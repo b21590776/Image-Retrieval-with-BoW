@@ -160,8 +160,6 @@ def main(select):
         list.append(objects[a]+": "+str(cm))
     print('[%s]' % ', '.join(map(str, list)))
 
-
-
 '''		
     listing = sorted(os.listdir(query_path))
     print("true predicted images:")
