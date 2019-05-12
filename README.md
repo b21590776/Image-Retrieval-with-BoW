@@ -1,5 +1,7 @@
 # Image-Retrieval-with-BoW
 
+### Author
+
 Ege Berke Balseven 
 
 ### Prerequisites
