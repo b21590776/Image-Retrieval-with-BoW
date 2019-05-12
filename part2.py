@@ -194,13 +194,9 @@ if __name__ == '__main__':
         list.append(objects[a]+": "+str(cm))
     print('[%s]' % ', '.join(map(str, list)))
 
-
 '''
     listing = sorted(os.listdir(query_path))
     print("true predicted images:")
     for i in list:
         print(listing[i])
 '''
-
-
-
